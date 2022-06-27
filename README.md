@@ -1,17 +1,15 @@
-# da-projects
+This repoistory contains all of the data analysis projects I have made so far. All the projects were created on datasets from Practicum bootcamp, and all projects were reviewed by reviews from Practicum - all reviews were included in these projects.
 
-This repo will contain all my upcoming Data Analysis projects.
-Projects will be categorized into; simple, advanced and other categories.
-Simple category will include the straight forward and short projects.
-On the other hand, Advanced category will include the longer, more complicated and most advanced projects.
-Projects are presented as jupyter notebooks and as PDFs for quicker check-ups.
+The projects are in the form of a jupyter notebook - I've also included a PDF version of the projects. 
+Simple projects are my very first projects - simple, short and straight forward. BA stands for business analytics, BA folder includes projects regarding business analytics. Lastly, advnaced projects are my very last and recent projects, a little bit more complicated than all the other projects - some included ML, some dashboards, and some presentations.
 
-This repo includes; Jupyter notebooks, Dashboards, Presentations and Project PDFs.
+Presentation links;
+For advanced projects > final-full.pdf > https://drive.google.com/file/d/16DzfkWubWJFsEC5MBFTqy-nzHnRshckz/view?usp=sharing (This is my last presentation)
+For BA projects > telling-story.pdf: https://drive.google.com/file/d/1y7kQTgkM8CH3zUM6xj-5G8c2AiOMKL0J/view?usp=sharing (A simple presentation)
+- There's another simple presentation that can be found at advanced projects folder.
 
-Presentations: telling a story: https://drive.google.com/file/d/1y7kQTgkM8CH3zUM6xj-5G8c2AiOMKL0J/view?usp=sharing
-               final project: https://drive.google.com/file/d/16DzfkWubWJFsEC5MBFTqy-nzHnRshckz/view?usp=sharing
+Dashboards (using Tableau) :
+For advanced projects > final-full.ipnyp: https://public.tableau.com/app/profile/ameer.shehadey/viz/final_project_dashboard_16559986069860/Dashboard1
+For advanced projects > automation-presentation.pdf: https://public.tableau.com/app/profile/ameer.shehadey/viz/Automation_project_16527953419570/TrendingVideos
 
-
-Dashboards: 
-Automation: https://public.tableau.com/app/profile/ameer.shehadey/viz/Automation_project_16527953419570/TrendingVideos
-final: https://public.tableau.com/app/profile/ameer.shehadey/viz/final_project_dashboard_16559986069860/Dashboard1
+I will be uploading my upcoming projects here - stay tuned.
