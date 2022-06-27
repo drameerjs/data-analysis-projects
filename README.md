@@ -5,11 +5,14 @@ Simple projects are my very first projects - simple, short and straight forward.
 
 Presentation links;
 For advanced projects > final-full.pdf > https://drive.google.com/file/d/16DzfkWubWJFsEC5MBFTqy-nzHnRshckz/view?usp=sharing (This is my last presentation)
+
 For BA projects > telling-story.pdf: https://drive.google.com/file/d/1y7kQTgkM8CH3zUM6xj-5G8c2AiOMKL0J/view?usp=sharing (A simple presentation)
-- There's another simple presentation that can be found at advanced projects folder.
+
+There's another simple presentation that can be found at advanced projects folder.
 
 Dashboards (using Tableau) :
 For advanced projects > final-full.ipnyp: https://public.tableau.com/app/profile/ameer.shehadey/viz/final_project_dashboard_16559986069860/Dashboard1
+
 For advanced projects > automation-presentation.pdf: https://public.tableau.com/app/profile/ameer.shehadey/viz/Automation_project_16527953419570/TrendingVideos
 
 I will be uploading my upcoming projects here - stay tuned.
